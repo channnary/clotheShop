@@ -22,6 +22,7 @@ background-color: rgb(197, 22, 245);
     display: flex;
     flex-wrap: wrap;
     gap: 5px; /* Add some space between images */
+    padding-bottom: 5px;
 }
 
 .image-container img {
